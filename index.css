@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.parent{
+    width: 100%;
+    
+
+}
+.child1{
+    display:flex;
+    
+    gap: 5px;
+}
+p{
+    padding: 15px;
+    color: black;
+    background-color: rgb(232, 239, 241);
+    border-radius: 5px;
+    
+}
